@@ -17,3 +17,11 @@
 <a href="https://colab.research.google.com/drive/1x88RHPEvf54rNIESadx79J8zieGWWDt6?usp=sharing">Лр 2,3,4</a> <br/>
 <a href="https://colab.research.google.com/drive/1LLCKGlpMh5AUVfAya9-dklXNg5c8_ume?usp=sharing">Лр 5</a> <br/>
 <a href="https://colab.research.google.com/drive/1KCBW2MgPldTU37Hr0SPI1zO_bPCMC7l1?usp=sharing">Лр 6</a> <br/>
+
+
+#ИСР и ВСР <br/>
+<a href="https://colab.research.google.com/drive/13AeGEGsHXbpjJ8aw-TTNBzncD0toKcaX?usp=sharing">ИСР 1</a> <br/>
+<a href="https://github.com/mozgovoy/programming-portfolio/blob/main/SR/vsr-1-2.py">ВСР 1.2</a> <br/>
+<a href="https://github.com/mozgovoy/programming-portfolio/blob/main/SR/isr-2-1.py">ИСР 2.1</a> <br/>
+<a href="https://github.com/mozgovoy/programming-portfolio/blob/main/SR/isr-2-2.py">ИСР 2.2</a> <br/>
+<a href="https://github.com/mozgovoy/programming-portfolio/blob/main/SR/vsr-2-2.py">ВСР 2.2</a> <br/>
