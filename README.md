@@ -18,6 +18,7 @@
 <a href="https://colab.research.google.com/drive/1LLCKGlpMh5AUVfAya9-dklXNg5c8_ume?usp=sharing">Лр 5</a> <br/>
 <a href="https://colab.research.google.com/drive/1KCBW2MgPldTU37Hr0SPI1zO_bPCMC7l1?usp=sharing">Лр 6</a> <br/>
 
+<hr>
 
 #ИСР и ВСР <br/>
 <a href="https://colab.research.google.com/drive/13AeGEGsHXbpjJ8aw-TTNBzncD0toKcaX?usp=sharing">ИСР 1</a> <br/>
