@@ -26,3 +26,8 @@
 <a href="https://github.com/mozgovoy/programming-portfolio/blob/main/Sem%205/Lr%206/lr6.py">Лр 6. Получение курсов валют с использованием синглтона</a> <br/>
 <a href="https://github.com/mozgovoy/programming-portfolio/tree/main/Sem%205/Lr%207">Лр 7. Получение курсов валют с использованием декоратора</a> <br/>
 <a href="https://github.com/mozgovoy/programming-portfolio/blob/main/Sem%205/Lr%209/lr9.py">Лр 9. Визуализация курсов валют</a> <br/>
+
+<hr>
+
+#3 Семестр <br/>
+<a href="https://git.herzen.spb.ru/190660/sem3-ivt19-task1-1-mozgovoy">Все ЛР</a>
